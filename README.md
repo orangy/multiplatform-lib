@@ -18,9 +18,9 @@ Not implemented yet:
 # Points of interest
 
 * Extra files in [gradle](gradle) folder:
-** node-js.gradle – installs `node` and sets up `node_modules` directory
-** pom.gradle – configures `pom.xml` for publishing
-** publish.gradle – creates publishing tasks
-** test-mocha-js.gradle – creates tasks for running JS tests with Mocha
+  * node-js.gradle – installs `node` and sets up `node_modules` directory
+  * pom.gradle – configures `pom.xml` for publishing
+  * publish.gradle – creates publishing tasks
+  * test-mocha-js.gradle – creates tasks for running JS tests with Mocha
 
 
